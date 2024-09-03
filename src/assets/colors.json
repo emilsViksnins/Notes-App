@@ -1,0 +1,26 @@
+[
+    {
+        "id": "color-brown",
+        "colorHeader": "#D2B48C",  
+        "colorBody": "#F5DEB3",    
+        "colorText": "#2C2C2C"     
+    },
+    {
+        "id": "color-green",
+        "colorHeader": "#AFDA9F",
+        "colorBody": "#BCDEAF",
+        "colorText": "#18181A"
+    },
+    {
+        "id": "color-blue",
+        "colorHeader": "#9BD1DE",
+        "colorBody": "#A6DCE9",
+        "colorText": "#18181A"
+    },
+    {
+        "id": "color-dark-red",
+        "colorHeader": "#C62828",  
+        "colorBody": "#E53935",    
+        "colorText": "#FFFFFF"     
+    }
+]
